@@ -1,4 +1,5 @@
 # ReadExcelFile
+.NET Framework
 
 click on ReadExcelFile.sln file.
 setup few things need to setup and its ready to start
